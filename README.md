@@ -27,7 +27,7 @@ This project has received support from the Solana Foundation and Bonk Inu. We ar
 ## Installation
 ```
 npm i @thespidercode/openbook-swap
-npm i @solana/web3.js
+npm i @solana/web3.js@1
 
 *Optional*
 npm install @solana/wallet-adapter-react
